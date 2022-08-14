@@ -1,7 +1,6 @@
-- 👋 Olá, eu sou @Arabuena.
-- 🌱 Sou formado em Análise e Desenvolvimento de Sistemas
-- 👀 Eu me interesso em estagiar na  área de programação.. 
-- 💞️ Me interesso também em participar de projetos em Delphi.  
+- 👋 Olá, sou @Arabuena.
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas
+- 💞️ Me interesso em participar de projetos em Delphi.  
 - 📫 Posso ser encontrado nos endereços abaixo:
 <div> 
 <a href="https://www.instagram.com/arabuenapecanha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
