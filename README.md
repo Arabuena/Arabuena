@@ -1,6 +1,6 @@
 - 👋 Olá, sou @Arabuena.
 - 🌱 Formado em Análise e Desenvolvimento de Sistemas
-- 💞️ Me interesso em participar de projetos em Delphi.  
+- 💞️ Focado em React Js.  
 - 📫 Posso ser encontrado nos endereços abaixo:
 <div> 
 <a href="https://www.instagram.com/arabuenapecanha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
